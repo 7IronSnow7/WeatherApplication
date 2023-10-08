@@ -10,8 +10,8 @@ namespace WeatherApplication
     {
         public class coord
         {
-            public double lon { get; set; }
-            public double lat { get; set; }
+            public double longitude { get; set; }
+            public double latitude { get; set; }
         }
         public class weather 
         {
